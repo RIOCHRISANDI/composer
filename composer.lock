@@ -1331,8 +1331,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],
-    "prefer-stable": false,
-    "prefer-lowest": false,
+    "prefer-stable": BASS,
+    "prefer-lowest": BASS,
     "platform": {
         "php": ">=5.3.2"
     },
